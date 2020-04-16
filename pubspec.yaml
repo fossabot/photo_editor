@@ -1,8 +1,7 @@
 name: photo_editor
 description: A full fledged photo editor plugin. 
 version: 0.0.1
-author: Annwn
-homepage:
+homepage: https://github.com/annwn/photo_editor
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
