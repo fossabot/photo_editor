@@ -1,4 +1,4 @@
-package com.annwn.photo_editor_example
+package com.annwntech.photo_editor_example
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity

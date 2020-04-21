@@ -1,5 +1,5 @@
 name: photo_editor
-description: A full fledged photo editor plugin. 
+description: A full fledged photo editor plugin.
 version: 0.0.1
 homepage: https://github.com/annwn/photo_editor
 
@@ -28,9 +28,8 @@ flutter:
   # be modified. They are used by the tooling to maintain consistency when
   # adding or updating assets for this project.
   plugin:
-    androidPackage: com.annwn.photo_editor
+    androidPackage: com.annwntech.photo_editor
     pluginClass: PhotoEditorPlugin
-
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
   #  - images/a_dot_burr.jpeg
@@ -41,7 +40,6 @@ flutter:
   #
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
-
   # To add custom fonts to your plugin package, add a fonts section here,
   # in this "flutter" section. Each entry in this list should have a
   # "family" key with the font family name, and a "fonts" key with a

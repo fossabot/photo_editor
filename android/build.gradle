@@ -1,4 +1,4 @@
-group 'com.annwn.photo_editor'
+group 'com.annwntech.photo_editor'
 version '1.0-SNAPSHOT'
 
 buildscript {
